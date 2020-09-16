@@ -37,18 +37,19 @@ h1 {
 #descripcion_iguana {
   width: 1280px;
   height: 348px;
+
 }
 
 .descripcion {
   width: 475px;
   height: 197px;
-  padding-left: 150px;
-  padding-top: 76px;
-  padding-bottom: 75px;
+  margin-left: 150px;
+  margin-top: 76px;
   font-size: 16px;
   font-weight: 300;
   display: inline-block;
   text-align: left;
+  padding-bottom: 75px;
 }
 
 .fotoiguana {
@@ -58,8 +59,8 @@ h1 {
   background-size: cover;
   background-repeat: no-repeat;
   display: inline-block;
-  padding-top: 45px;
-  padding-left: 66px;
+  margin-top: 45px;
+  margin-left: 106px;
 }
 
 /*caracteristicas*/
@@ -106,6 +107,7 @@ h2 {
   background-color: #000000;
   padding-left: 150px;
   padding-top: 73px;
+  padding-right: 150px;
 }
 
 #fotos div {
