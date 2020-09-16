@@ -10,16 +10,16 @@ body {
 
 /* elementos del header */
 header {
-  width: 80rem;
-  height: 4.5625rem;
+  width: 1280px;
+  height: 73px;
   text-align: center;
 }
 
 h1 {
-  font-size: 3.125rem;
+  font-size: 50px;
   font-weight: 500;
-  margin-top: 0.4375rem;
-  margin-bottom: 0.4375rem;
+  margin-top: 7px;
+  margin-bottom: 7px;
 }
 
 /* hero-section*/
@@ -28,94 +28,94 @@ h1 {
   background-image: url('../img/bg-header.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  width: 80em;
-  height: 45.4375em;
+  width: 1280px;
+  height: 727px;
 }
 
 /*descripcion iguana*/
 
 #descripcion_iguana {
-  width: 80em;
-  height: 21.75em;
+  width: 1280px;
+  height: 348px;
 }
 
 .descripcion {
-  width: 29.688em;
-  height: 12.313em;
-  margin-left: 9.375em;
-  margin-top: 4.75em;
-  margin-bottom: 4.688em;
-  font-size: 1em;
+  width: 475px;
+  height: 197px;
+  padding-left: 150px;
+  padding-top: 76px;
+  padding-bottom: 75px;
+  font-size: 16px;
   font-weight: 300;
   display: inline-block;
   text-align: left;
 }
 
 .fotoiguana {
-  width: 24.938em;
-  height: 14.813em;
+  width: 399px;
+  height: 237px;
   background-image: url('../img/iguana-1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   display: inline-block;
-  margin-top: 2.813em;
-  margin-left: 6.625em;
+  padding-top: 45px;
+  padding-left: 66px;
 }
 
 /*caracteristicas*/
 #caracteristicas {
   background-color: #1e1a13;
-  width: 80em;
-  height: 21.75em;
+  width: 1280px;
+  height: 348px;
 }
 
 h2 {
   text-align: center;
   font-weight: 500;
-  font-size: 2.5rem;
-  padding-top: 4.688rem;
-  padding-left: 28.969rem;
-  padding-right: 28.781rem;
+  font-size: 40px;
+  padding-top: 75px;
+  padding-left: 463.5px;
+  padding-right: 460.5px;
 }
 
 .icono {
   display: inline-block;
   font-weight: 300;
   text-align: center;
-  padding-top: 3.125rem;
+  padding-top: 39.17px;
 }
 
 .ojo {
-  padding-left: 19.375rem;
+  padding-left: 301px;
 }
 
 .mano {
-  padding-left: 11.375rem;
+  padding-left: 182px;
 }
 
 .pincel {
-  padding-left: 9.118rem;
+  padding-left: 145.88px;
 }
 
 
 
 /*fotos de iguana*/
 #fotos {
-  width: 80em;
-  height: 21.75em;
+  width: 1280px;
+  height: 348px;
   background-color: #000000;
-  padding-left: 9.375em;
+  padding-left: 150px;
+  padding-top: 73px;
 }
 
 #fotos div {
-  width: 19.75em;
-  height: 12.625em;
+  width: 316px;
+  height: 202px;
   background-size: cover;
   background-repeat: no-repeat;
   display: inline-block;
-  margin-top: 4.563em;
-  margin-bottom: 4.563em;
-  margin-left: 1em;
+  margin-bottom: 73px;
+  margin-left: 16px;
 }
 
 .iguana-2 {
@@ -134,11 +134,11 @@ h2 {
 footer {
   width: 1280px;
   background-color: #1e1a13;
-  height: 6.375em;
+  height: 102px;
   text-align: center;
-  padding-top: 2.438em;
-  padding-bottom: 2.438em;
-  font-size: 1.25em;
+  padding-top: 39px;
+  padding-bottom: 39px;
+  font-size: 20px;
   font-weight: 100;
 }
 
