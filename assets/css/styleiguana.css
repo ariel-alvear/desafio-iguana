@@ -34,7 +34,7 @@ h1 {
 
 /*descripcion iguana*/
 
-#descripcion_iguana {
+.desc-section {
   width: 1280px;
   height: 348px;
 
@@ -64,7 +64,7 @@ h1 {
 }
 
 /*caracteristicas*/
-#caracteristicas {
+.icons-section {
   background-color: #1e1a13;
   width: 1280px;
   height: 348px;
